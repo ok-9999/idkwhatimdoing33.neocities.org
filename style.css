@@ -1,0 +1,22 @@
+
+body {
+  background-image: url("https://idkwhatimdoing33.neocities.org/images/pngtree-seamless-diagonal-stripes-texture-with-blue-gingham-pattern-perfect-for-plaid-image_13898414.png");
+  background-size: 1200px 900px;
+  font-family: sans-serif;
+}
+
+h6:hover{
+
+color:blue;
+background-color:skyblue;
+}
+
+div {
+  text-align:center;
+  align-content:center;
+}
+
+h1, h2, h3, h4, h5, h6, p , img , src , herf , alt , div , a {
+  text-align:center;
+  align-content:center;
+}

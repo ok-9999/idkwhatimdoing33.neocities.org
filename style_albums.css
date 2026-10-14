@@ -1,0 +1,26 @@
+body {
+  background-color: LightSkyBlue;
+  color: DarkSlateBlue;
+  font-family: sans-serif;
+  text-align:left;
+}
+
+.kit div {
+  border-style:solid;
+  border:black;
+  border-width:3px;
+  height:600px;
+  width:900px;
+  margin:auto;
+  background:CadetBlue;
+}
+
+hidden james div {
+  border:maroon;
+  border-width:3px;
+  height:600px;
+  width:900px;
+  margin:auto;
+  background:wheat;
+}
+  
